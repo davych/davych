@@ -19,7 +19,8 @@ await execa('git', ['config', '--local', 'user.email', "davych@163.com"]);
 await execa('git', ['config', '--local', 'user.name', "davych"]);
 (async () => {
   const list = [1990, 1991, 1992, 1993, 1994, 1995, 1996, 1997, 1998, 1999, 2000, 2001, 2002, 2003, 2004, 2005, 2006, 2007, 2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 2019, 2020, 2021, 2022,2023,2024];
- list.forEach(async (y) => {
+  for (let j = 0; j < list.length; j++) {
+    const y = list[j];
   let cal = moment(`${y}-01-01`);
   let days = 360;
   for (let i = 0; i < days; i++) {
@@ -32,5 +33,5 @@ await execa('git', ['config', '--local', 'user.name', "davych"]);
     await execa('git', ['push', '-f']);
     cal.add(1, 'days');
   }
-  })
+}
 })()
