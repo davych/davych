@@ -1,0 +1,26 @@
+{
+  "name": "davych",
+  "version": "1.0.0",
+  "description": "![4eaa69fadd34e253a33349467a18ad2f](https://user-images.githubusercontent.com/10722490/140019072-93b919e6-7c64-4d6c-b973-2591a21e5e4c.gif)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "fake": "node task.js -r esm"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davych/davych.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davych/davych/issues"
+  },
+  "homepage": "https://github.com/davych/davych#readme",
+  "dependencies": {
+    "esm": "^3.2.25",
+    "execa": "^6.0.0",
+    "moment": "^2.29.1"
+  },
+  "type": "module"
+}
