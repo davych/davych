@@ -25,7 +25,7 @@ await execa('git', ['config', '--local', 'user.name', "davych"]);
   let days = 360;
   for (let i = 0; i < days; i++) {
     let date = cal.format('LLLL');
-    for (let index = 0; index < i; index++) {
+    for (let index = 0; index < (i % 22); index++) {
       await fileOP();
       await execa('git', ['add', '.']);
       await execa('git', ['commit', '-m', `a commit a day keeps your girlfriend away ${date}`]);
