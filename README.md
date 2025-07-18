@@ -5,8 +5,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGoxb3h3N2M0b3l5dnpnZmM0ZmMxcnFldW9hcm4wbnFzN3p6dzVwYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/VTtANKl0beDFQRLDTh/giphy.gif" width="180" alt="AI thinking" />
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2500&pause=650&color=F2A900&center=true&vCenter=true&multiline=true&width=600&lines=🧑‍💻+9%2B+Years+JS+Craftsman+%7C+Frontend+Alchemist+%7C+AI+Agent+Tinkerer;🚀+Micro-Frontends%2C+SSR%2C+Agents%2C+Next.js%2C+DevOps%2C+Analytics+%7C+Always+Hands-On" alt="Typing SVG" />
-</p>
 
 ---
 
