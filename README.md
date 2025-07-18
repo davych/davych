@@ -1,90 +1,106 @@
+<!--
+  Hi there! 👋
+  I'm Davy, an explorer at the intersection of modern web and AI. This is my creative GitHub Profile README.
+-->
+
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/Chendawei/chendawei/main/assets/ai-bot.gif" width="60" alt="AI Bot" />
-  Hi, I'm davy 👋
+  <img src="https://raw.githubusercontent.com/davych/davych/assets/ai-avatar.gif" width="96" alt="avatar" />
+  <br/>
+  Hi, I'm Davy! <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=F2A900&center=true&vCenter=true&multiline=true&width=400&lines=JS+Polyglot;AI+Agent+Builder;Hands-on+Craftsman" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=flat&logo=react&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-Agent-%23FF4081.svg?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?style=flat&logo=typescript&logoColor=white" />
+  <b>Frontend Architect · Backend Tinkerer · AI Explorer · DevOps Automator</b>
+  <br>
+  <img src="https://badgen.net/badge/coding%20years/9+/blue?icon=javascript" alt="9+ years coding" />
+  <img src="https://badgen.net/badge/focus/AI%20Agents/purple?icon=rocket" alt="Focus: AI Agents" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-> 🧑‍💻 **Full-stack JS explorer** | 🦾 **AI Agent Builder** | 🎨 **Micro-frontend Architect**  
-> Started as a frontend dev, but I've done pretty much everything JS-related.  
-> Super into AI lately, diving deep into agent development.  
-> Love leading small teams, but hands-on coding is still my thing.
-
----
-
-## 🧠 Tech Stack & Skills
-
-```mermaid
-graph TD;
-    A[Frontend] -->|React, Vue, Next.js| B[SSR & Micro-Frontend]
-    A -->|TailwindCSS, Ant Design| C[UI/UX]
-    D[Backend] -->|Node.js, Koa, Hapi, Nest| E[API Design]
-    D -->|GraphQL, REST| F[Data Layer]
-    G[AI & Automation] -->|CrewAI, LangGraph| H[Agent Systems]
-    G -->|MCP, Autonomous Agents| I[AI Protocols]
-    J[DevOps] -->|CI/CD, GitHub Actions| K[Automation]
-    L[Testing] -->|Cypress, Puppeteer| M[Quality Assurance]
-```
-
-## 🤖 AI & Innovation
-
-- 🧬 Building intelligent agent systems with CrewAI & LangGraph
-- 🔗 Exploring Multi-Agent Conversation Protocol (MCP)
-- 🧠 Always learning: latest AI, automation, and JS ecosystem
+- 🛠️ **Full-stack Developer** (mainly JavaScript/TypeScript, with a dash of Python for AI)
+- 🎨 **Frontend**: React, Vue, Next.js, React Native, TailwindCSS, GraphQL
+- 🔗 **Backend**: Node.js (Hapi, Koa, Fastify, Nest), RESTful APIs, microservices
+- 🧪 **Testing**: Cypress, Puppeteer, Jest, API & E2E, strict linting
+- ⚙️ **DevOps**: GitHub Actions, GitLab CI, Adobe Analytics, GA/GTM
+- 🤖 **AI/Agents**: CrewAI, LangGraph, MCP, multi-agent conversation protocols
+- 👥 **Leadership**: Team lead & Agile advocate, but always hands-on with code
 
 ---
 
-## 📈 GitHub Stats
+### 💡 Creative Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chendawei&show_icons=true&theme=radical" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chendawei&theme=radical" width="400" />
+  <img src="https://raw.githubusercontent.com/davych/davych/assets/brainwave.gif" width="220" alt="AI Brainwave" />
 </p>
+
+- **Micro-Frontend Magician**: Built scalable, modular apps with Next.js & micro-frontend architecture.
+- **Analytics Whisperer**: Leveraged Adobe & GA to turn user behavior into actionable insights.
+- **Agent Architect**: Built AI agent systems (CrewAI, LangGraph), advancing multi-agent protocols.
+- **Quality Guru**: Obsessed with clean, tested code—because bugs are not invited to my party.
+- **Lifelong Learner**: Deep-diving into AI/agent tech; always exploring, never settling.
 
 ---
 
-## 🛠️ Toolbox
+### 🛠️ My Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,vue,next,nodejs,graphql,tailwind,antdesign,python,git,github,linux,figma" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,graphql,tailwind,python,nestjs,fastify,git,githubactions,puppeteer,cypress&perline=8" alt="Tech stack" />
 </p>
 
 ---
 
-## 📬 Contact
+### 📊 Activity & Fun Stats
 
-- 💼 [LinkedIn]([dw](https://www.linkedin.com/in/%E5%A4%A7%E4%BC%9F-%E9%99%88-9789509b/))
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davych&show_icons=true&theme=tokyonight" alt="Davy's GitHub stats" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davych&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=davych&theme=onedark&row=1&column=6" alt="Trophy" />
+</p>
+
+---
+
+### 🌱 What I'm Growing Now
+
+- 🤖 Building AI-powered autonomous agents (CrewAI, LangGraph, MCP)
+- 🛠️ Prototyping new micro-frontend patterns
+- 🔥 Learning about agentic workflows & multi-agent communication
+- 🧠 Experimenting with LLM-driven automation
+
+---
+
+### ✨ Let's Connect!
+
+- 💌 [Email Me](mailto:davych@example.com) <!-- replace with your email -->
+- 🐦 [Twitter/X](https://twitter.com/yourhandle) <!-- optional: replace with your handle -->
+- 💼 [LinkedIn](https://linkedin.com/in/yourprofile) <!-- optional: replace with your profile -->
+- 🌐 [davych.dev](https://davych.dev) <!-- optional: replace with your site -->
 
 ---
 
 <details>
-  <summary>📝 TL;DR</summary>
-  <ul>
-    <li>9+ years in web dev, React/Next.js/Vue micro-frontends</li>
-    <li>Node.js backend: Hapi, Koa, Nest, Fastify</li>
-    <li>GraphQL, REST, API design & testing</li>
-    <li>CI/CD, analytics, automation</li>
-    <li>AI agent systems, CrewAI, LangGraph, MCP</li>
-    <li>Agile, client communication, team leadership</li>
-  </ul>
+  <summary>Worth Reading: My Journey</summary>
+  
+  Started as a frontend dev, but I've done pretty much everything JS-related. Got tons of experience under my belt, but still hungry for more. Super into AI lately, been diving deep into agent development courses. Looking to pivot a bit in that direction. Love staying hands-on with code, and I'm comfortable leading small teams, but coding is still my thing.
+
+  <br/>
+
+  <b>Technical Expertise:</b> Over 9 years in web dev, specializing in React, Vue, micro-frontends, Next.js, TailwindCSS, GraphQL, etc.<br/>
+  <b>Backend & API:</b> Node.js (Hapi, Koa, Fastify, Nest), REST APIs, robust backend services.<br/>
+  <b>Testing:</b> Unit, integration, E2E with Puppeteer & Cypress, strict linting.<br/>
+  <b>DevOps & Analytics:</b> CI/CD with GitHub Actions/GitLab CI, user analytics with Adobe/GA/GTM.<br/>
+  <b>AI & Innovation:</b> Exploring AI agent systems (CrewAI, LangGraph, MCP, autonomous agents).<br/>
+  <b>Project Management:</b> Agile, requirements gathering, technical research, client-facing.
 </details>
 
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Chendawei/chendawei/main/assets/ai-coding.gif" width="120" alt="AI Coding" />
+  <img src="https://raw.githubusercontent.com/davych/davych/assets/code-rocket.gif" width="120" alt="Rocket" />
   <br>
-  <b>Always building. Always learning. 🚀</b>
+  <i>“Stay curious. Code boldly. Automate wisely.”</i>
 </p>
