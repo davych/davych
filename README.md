@@ -118,9 +118,8 @@ graph TD
 
 ## 🤝 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/yourprofile) <!-- replace -->
-[![Email](https://img.shields.io/badge/Email-Davych-informational?style=flat-square&logo=gmail)](mailto:davych@example.com) <!-- replace -->
-[![Website](https://img.shields.io/badge/Portfolio-davych.dev-orange?style=flat-square&logo=firefox-browser)](https://davych.dev) <!-- replace -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/%E5%A4%A7%E4%BC%9F-%E9%99%88-9789509b/) <!-- replace -->
+[![Email](https://img.shields.io/badge/Email-Davych-informational?style=flat-square&logo=gmail)](mailto:davych@live.com) <!-- replace -->
 
 ---
 
