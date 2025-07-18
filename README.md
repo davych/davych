@@ -65,9 +65,7 @@ graph TD;
 
 ## 📬 Contact
 
-- 💼 [LinkedIn](https://linkedin.com/in/chendawei)
-- 📨 [Email](mailto:chendawei@gmail.com)
-- 🏠 [Portfolio](https://chendawei.dev)
+- 💼 [LinkedIn]([dw](https://www.linkedin.com/in/%E5%A4%A7%E4%BC%9F-%E9%99%88-9789509b/))
 
 ---
 
