@@ -26,7 +26,7 @@
 - 🧪 **Testing**: Cypress, Puppeteer, Jest, API & E2E, strict linting
 - ⚙️ **DevOps**: GitHub Actions, GitLab CI, Adobe Analytics, GA/GTM
 - 🤖 **AI/Agents**: CrewAI, LangGraph, MCP, multi-agent conversation protocols
-- 👥 **Leadership**: Team lead & Agile advocate, but always hands-on with code
+- 👥 **Leadership**: Team lead & Agile advocate
 
 ---
 
