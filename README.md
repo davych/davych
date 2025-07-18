@@ -38,19 +38,6 @@ graph TD;
     L[Testing] -->|Cypress, Puppeteer| M[Quality Assurance]
 ```
 
----
-
-## 🌟 Featured Projects
-
-| Project | Description | Tech |
-| ------- | ----------- | ---- |
-| [AI CMS](https://github.com/chendawei/admin-ai-data) | Modern AI-powered content management system | React, Vite, AntD, Tailwind, RTK, CASL |
-| [CrewAI Agents](https://github.com/chendawei/crewai-agents) | Multi-agent protocol for autonomous workflows | Python, LangGraph, MCP |
-| [Micro-Frontend Portal](https://github.com/chendawei/micro-frontend-portal) | Scalable portal using Next.js & Module Federation | Next.js, React, Webpack |
-| [Analytics Suite](https://github.com/chendawei/analytics-suite) | User analytics with GA, GTM, Adobe Analytics | Node.js, Express, GA |
-
----
-
 ## 🤖 AI & Innovation
 
 - 🧬 Building intelligent agent systems with CrewAI & LangGraph
