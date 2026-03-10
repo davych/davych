@@ -1,7 +1,9 @@
 <!-- AI 修改: 本文件由 OpenCode AI（ChatGPT）协助优化，标记：AI 修改 -->
 
-<!-- Centered header using Markdown-compatible layout -->
-![hero](./assets/hero-robot.svg){width=220}
+<!-- Centered header using a GitHub-compatible HTML image for consistent rendering -->
+<p align="center">
+  <img src="./assets/hero-robot.svg" width="220" alt="hero" />
+</p>
 
 # Davy Chen — Code with Curiosity ✨
 
