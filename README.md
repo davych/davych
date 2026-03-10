@@ -28,15 +28,19 @@ I turn curiosity into reliable systems: snappy frontends, modular micro-frontend
   <tr>
     <td width="62%" valign="top">
       <h3>Quick Highlights</h3>
-      - 🌐 9+ years building production web apps (React, Next.js, Vue)
-      - 🧩 Micro-frontend platforms & runtime composition
-      - 🤖 LLM agents, tool chains, and automation experiments
-      - 🧪 Engineering DX: testing, CI/CD, observability
+      <ul>
+        <li>🌐 9+ years building production web apps (React, Next.js, Vue)</li>
+        <li>🧩 Micro-frontend platforms &amp; runtime composition</li>
+        <li>🤖 LLM agents, tool chains, and automation experiments</li>
+        <li>🧪 Engineering DX: testing, CI/CD, observability</li>
+      </ul>
 
       <h3>Principles</h3>
-      - Fast path first, safe path always
-      - Automate work that should not be manual
-      - Readable, testable code wins
+      <ul>
+        <li>Fast path first, safe path always</li>
+        <li>Automate work that should not be manual</li>
+        <li>Readable, testable code wins</li>
+      </ul>
     </td>
     <td width="38%" valign="top" align="center">
       <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,graphql,tailwind,python,git,githubactions&perline=6" alt="Tech" />
