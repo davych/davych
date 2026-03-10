@@ -20,7 +20,9 @@
   "dependencies": {
     "esm": "^3.2.25",
     "execa": "^6.0.0",
-    "moment": "^2.29.1"
+    "moment": "^2.29.1",
+    "playwright": "^1.58.2"
   },
-  "type": "module"
+  "type": "module",
+  "keywords": []
 }
