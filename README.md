@@ -3,43 +3,44 @@
 <p align="center">
   <img src="./assets/hero-robot.svg" width="220" alt="hero" />
   <br>
-  <h1>Davy Chen — Code with Curiosity</h1>
-  <em>Crafting fast frontends, modular platforms, and agent-led automations.</em>
+  <h1 style="color: #ff6b6b;">Davy Chen — Code with Curiosity ✨</h1>
+  <em style="color: #334155;">Crafting fast frontends, composable platforms, and LLM-driven automations.</em>
 </p>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Experience-9%2B%20yrs-blue?style=flat-square&logo=javascript" />
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Agents-brightgreen?style=flat-square&logo=python" />
-  <img src="https://img.shields.io/badge/Domain-Micro--Frontend-purple?style=flat-square&logo=react" />
-  <img src="https://img.shields.io/badge/Editing-AI--assisted-red?style=flat-square" />
+  <!-- Bright badges -->
+  <img src="https://img.shields.io/badge/Experience-9%2B%20yrs-%23007ACC?style=for-the-badge&logo=javascript" alt="experience" />
+  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Agents-%2300C853?style=for-the-badge&logo=python" alt="focus" />
+  <img src="https://img.shields.io/badge/Domain-Micro--Frontend-%238A2BE2?style=for-the-badge&logo=react" alt="domain" />
+  <img src="https://img.shields.io/badge/Editing-AI--assisted-%23FF7043?style=for-the-badge" alt="ai" />
 </div>
 
 ---
 
-Intro: I turn curiosity into reliable systems — elegant frontends, composable micro-frontends, and LLM-driven agents that automate meaningful work.
+### Hello — I'm Davy 👋
 
----
+I turn curiosity into reliable systems: snappy frontends, modular micro-frontends, and agent-led automations that help teams move faster. I care about performance, developer experience, and reproducible experiments.
 
-<!-- LAYOUT: two-column summary -->
+<!-- Two-column bright layout -->
 <table width="100%">
   <tr>
-    <td width="60%" valign="top">
-      ### Quick Highlights
-      - 9+ years building web products (React, Next.js, Vue)
-      - Micro-frontend platforms, runtime composition, federated UX
-      - Building and experimenting with LLM agents and tool chains
-      - Strong on DX: testing, CI/CD, and observability
+    <td width="62%" valign="top">
+      <h3>Quick Highlights</h3>
+      - 🌐 9+ years building production web apps (React, Next.js, Vue)
+      - 🧩 Micro-frontend platforms & runtime composition
+      - 🤖 LLM agents, tool chains, and automation experiments
+      - 🧪 Engineering DX: testing, CI/CD, observability
 
-      ### Principles
-      - Delight the fast path, safeguard the slow path
-      - Automate repetitive work; empower human decisions
-      - Readable, testable code > clever one-liners
+      <h3>Principles</h3>
+      - Fast path first, safe path always
+      - Automate work that should not be manual
+      - Readable, testable code wins
     </td>
-    <td width="40%" valign="top" align="center">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,graphql,tailwind,python,nestjs,fastify,git,githubactions&perline=6" alt="Tech" />
-      <p><small>Currently exploring multi-agent orchestration + reproducible experiments.</small></p>
+    <td width="38%" valign="top" align="center">
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,graphql,tailwind,python,git,githubactions&perline=6" alt="Tech" />
+      <p><small>Exploring multi-agent orchestration, reproducible demos, and composable UX.</small></p>
     </td>
   </tr>
 </table>
@@ -48,19 +49,19 @@ Intro: I turn curiosity into reliable systems — elegant frontends, composable 
 
 ## Featured Projects
 
-Below are a selection of repositories pulled automatically from my GitHub — the list updates via a scheduled GitHub Action. The action selects repos by keywords (crewai, langgraph, microfront, agent, ai, llm) or by popularity.
+The projects below are selected automatically by a small workflow (keywords: crewai, langgraph, microfront, agent, ai, llm). Trigger the workflow or let it run on schedule to populate.
 
 <!-- REPO-LIST:START -->
-_No projects found yet — the README generator will populate this area. Trigger the action with the workflow dispatch or wait for the scheduled run._
+_No projects found yet — trigger the GitHub Action to populate this list._
 <!-- REPO-LIST:END -->
 
 ---
 
 ## Experiments & Notes
 
-- LLM agent patterns (crew orchestration, tool encapsulation)
-- Micro-frontend runtime composition experiments
-- Small utilities and reproducible demo apps
+- 🧭 Agent orchestration patterns (crew, tool encapsulation)
+- 🧩 Micro-frontend runtime composition experiments
+- ⚡ Tiny reproducible demos and utilities
 
 ---
 
@@ -76,15 +77,20 @@ graph TD
 
 ---
 
-## Connect
+## Stats & Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/%E5%A4%A7%E4%BC%9F-%E9%99%88-9789509b/)
-[![Email](https://img.shields.io/badge/Email-Davych-informational?style=flat-square&logo=gmail)](mailto:davych@live.com)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=davych&show_icons=true&theme=radical" alt="github-stats" />
+  <p>
+    <a href="https://www.linkedin.com/in/%E5%A4%A7%E4%BC%9F-%E9%99%88-9789509b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+    <a href="mailto:davych@live.com"><img src="https://img.shields.io/badge/Email-Davych-informational?style=flat-square&logo=gmail" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
 <p align="center">
-  <small>“Stay curious. Code boldly. Automate wisely.”</small>
+  <strong style="color:#ff6b6b;">“Stay curious. Code boldly. Automate wisely.”</strong>
   <br>
-  <em>此 README 部分由自动化脚本维护。AI 协助优化 — 标记：AI 修改</em>
+  <em>此 README 部分由自动化脚本维护 — AI 协助优化</em>
 </p>
