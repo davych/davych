@@ -1,0 +1,27 @@
+name: Populate Featured Projects
+
+on:
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch: {}
+
+jobs:
+  populate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run populate script
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Install deps
+        run: |
+          npm ci || true
+      - name: Populate Featured Projects
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          node .github/scripts/populate-featured.js
